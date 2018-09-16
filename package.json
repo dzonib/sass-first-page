@@ -1,0 +1,25 @@
+{
+  "name": "sass-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzonib/sass-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https:dzonib.github.io/sass-landing-page",
+  "bugs": {
+    "url": "https://github.com/dzonib/sass-landing-page/issues"
+  },
+  "homepage": "https://github.com/dzonib/sass-landing-page#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
