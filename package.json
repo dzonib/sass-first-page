@@ -14,11 +14,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https:dzonib.github.io/sass-landing-page",
   "bugs": {
     "url": "https://github.com/dzonib/sass-landing-page/issues"
   },
-  "homepage": "https://github.com/dzonib/sass-landing-page#readme",
+ "homepage": "https://dzonib.github.io/sass-landing-page",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
